@@ -2,10 +2,23 @@
 
 ## Git commands
 
-```
+``` bash
 git add . 
 
 git commit -m "updated commit"
 
 git push origin main
+```
+
+``` bash
+
+conda create -n visa python=3.8 -y
+
+conda activate visa
+
+```
+
+``` bash
+pip install -r requirements.txt
+
 ```

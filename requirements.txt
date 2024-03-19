@@ -1,0 +1,25 @@
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+imblearn
+xgboost
+catboost
+pymongo #MongoDB
+from_root #gives the root folder
+evidently == 0.2.8 #Datadiff detection
+dill
+pyYAML
+neuro_mf
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
+-e . #setup.py
