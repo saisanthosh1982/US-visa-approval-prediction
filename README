@@ -1,1 +1,11 @@
 # US visa application prediction
+
+## Git commands
+
+```bash
+git add . 
+
+git commit -m "updated commit"
+
+git push origin main
+```
