@@ -2,7 +2,7 @@
 
 ## Git commands
 
-```bash
+```
 git add . 
 
 git commit -m "updated commit"
