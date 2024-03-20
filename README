@@ -2,7 +2,7 @@
 
 ## Git commands
 
-``` bash
+```bash
 git add . 
 
 git commit -m "updated commit"
@@ -10,7 +10,7 @@ git commit -m "updated commit"
 git push origin main
 ```
 
-``` bash
+```bash
 
 conda create -n visa python=3.8 -y
 
@@ -18,7 +18,10 @@ conda activate visa
 
 ```
 
-``` bash
+```bash
 pip install -r requirements.txt
 
+```
+```bash
+conda init bash
 ```
