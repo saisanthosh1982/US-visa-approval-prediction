@@ -11,17 +11,15 @@ git push origin main
 ```
 
 ```bash
-
 conda create -n visa python=3.8 -y
 
 conda activate visa
-
 ```
 
 ```bash
 pip install -r requirements.txt
-
 ```
+
 ```bash
 conda init bash
 ```
