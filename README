@@ -23,3 +23,14 @@ pip install -r requirements.txt
 ```bash
 conda init bash
 ```
+
+## ML workflow execution 
+
+```bash
+constant
+config and entity
+artifact_entity
+conponent
+pipeline
+app.py / demo.py
+```
